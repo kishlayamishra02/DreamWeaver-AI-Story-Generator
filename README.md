@@ -26,8 +26,8 @@ Users click **New Story** to begin, choose one of three AI-generated continuatio
 
 | Name             | Role                                            | LinkedIn                                                         |
 |------------------|-------------------------------------------------|------------------------------------------------------------------|
-| **Kishlaya Mishra**  | Team Leader, AI integrator, submit & recording  | [linkedin.com/in/kishlayamishra](https://linkedin.com/in/kishlayamishra) |
-| Anushka Bishnoi  | Content creator                                 | [linkedin.com/in/anushka-bishnoi-88949a32a](https://linkedin.com/in/anushka-bishnoi-88949a32a) |
+| **Kishlaya Mishra**  | Team Leader, AI Integration Engineer, Deployment, Submission   | [linkedin.com/in/kishlayamishra](https://linkedin.com/in/kishlayamishra) |
+| Anushka Bishnoi  | Content Strategist and UX Writer                                 | [linkedin.com/in/anushka-bishnoi-88949a32a](https://linkedin.com/in/anushka-bishnoi-88949a32a) |
 | Yashu            | Backend logic & API orchestration               | [linkedin.com/in/cpentyashu](https://linkedin.com/in/cpentyashu)             |
 | Vaibhav Soni     | Frontend UI & styling                           | [linkedin.com/in/vaibhav-soni-867836285](https://linkedin.com/in/vaibhav-soni-867836285) |
 
