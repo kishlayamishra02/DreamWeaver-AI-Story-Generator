@@ -1,7 +1,7 @@
 # DreamWeaver – AI Story Generator
 
 **Hackathon**: HackHazards 25  
-**GitHub**: [kishlayamishra02](https://github.com/kishlayamishra02)  
+**Live Demo**: [DreamWeaver](https://dreamweaverofficial.netlify.app/)  
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ Users click **New Story** to begin, choose one of three AI-generated continuatio
 
 - **Frontend**: HTML5, Tailwind CSS, vanilla JS, GSAP  
 - **AI API**: Groq llama3-70b-8192 via fetch()  
-- **Deployment**: Static site (e.g. GitHub Pages)
+- **Deployment**: Static site (e.g. GitHub Pages, Netlify)
 
 ## 👥 Team & Roles
 
