@@ -26,8 +26,14 @@ Users click **New Story** to begin, choose one of three AI-generated continuatio
 
 | Name             | Role                                            | LinkedIn                                                         |
 |------------------|-------------------------------------------------|------------------------------------------------------------------|
-| **Kishlaya Mishra**  | Team Leader, AI Integration Engineer, Deployment, Submission   | [linkedin.com/in/kishlayamishra](https://linkedin.com/in/kishlayamishra) |
-| Anushka Bishnoi  | Content Strategist and UX Writer                                 | [linkedin.com/in/anushka-bishnoi-88949a32a](https://linkedin.com/in/anushka-bishnoi-88949a32a) |
-| Yashu            | Backend logic & API orchestration               | [linkedin.com/in/cpentyashu](https://linkedin.com/in/cpentyashu)             |
-| Vaibhav Soni     | Frontend UI & styling                           | [linkedin.com/in/vaibhav-soni-867836285](https://linkedin.com/in/vaibhav-soni-867836285) |
+| **Kishlaya Mishra**  | Team Leader, AI Integration Engineer, Deployment, Submission   | [Kishlaya Mishra](https://linkedin.com/in/kishlayamishra) |
+| Anushka Bishnoi  | Content Strategist and UX Writer                                 | [Anushka Bishnoi](https://linkedin.com/in/anushka-bishnoi-88949a32a) |
+| Yashu            | Backend logic & API orchestration               | [Yashu](https://linkedin.com/in/cpentyashu)             |
+| Vaibhav Soni     | Frontend UI & styling                           | [Vaibhav Soni](https://linkedin.com/in/vaibhav-soni-867836285) |
 
+## How to use:
+- **1**: Download the project in zip format.
+- **2**: Unzip the folder
+- **3**: Get a GROQ llama API key from the official [GROQ](https://groq.com/) website
+- **4**: Make a API.env file and put the API key there.
+- **5**: Simply run the project
